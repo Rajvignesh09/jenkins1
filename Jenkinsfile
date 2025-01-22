@@ -1,4 +1,4 @@
-pipeline {
+hi pipeline {
     agent any
     triggers {
         // Trigger the pipeline when there's a push to the 'develop' branch
